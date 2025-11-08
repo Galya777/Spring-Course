@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Spring/exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise1" vcs="Git" />
   </component>
 </project>
